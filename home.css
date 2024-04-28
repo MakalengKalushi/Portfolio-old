@@ -16,6 +16,10 @@
 body{
     padding:10px 0px;
     overflow-x: hidden;
+
+background-color: #2d3436;
+background-image: linear-gradient(315deg, #2d3436 8%, #d3d3d3 84%);
+
 }
 
 header{
@@ -45,7 +49,7 @@ header{
 }
 
 .header-right{
-    background-color: var(--Secondary-Color);
+    background-color: black;
     border-radius:2px;
     padding: 10px 50px;    
 }
@@ -84,7 +88,7 @@ header{
 
 .heading a{
     display:inline-block;
-    background-color: var(--Secondary-Color);
+    background-color: black;
     border-radius:2px;
     padding: 12px 70px;  
     text-decoration:none;
